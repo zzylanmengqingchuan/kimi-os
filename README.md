@@ -13,6 +13,7 @@ Kimi Code CLI 的使用技巧与实战笔记。
 | [【恢复手册】Tab 与 Kimi 会话灾难恢复（2026-07-25）](otty-kimi-recovery-runbook-2026-07-25.md) | 给 AI 看的恢复手册：13 个 tab 的基准布局 + 会话 ID 快照、全部踩坑记录与故障速查 |
 | [腾讯云 SSH 密钥免密登录：两种方式的区别](tencent-cloud-ssh-key-two-methods.md) | 本机生成 vs 控制台生成对比；私钥创建时浏览器静默自动下载、仅一次机会的大坑；网页终端 ≠ 本机 ssh |
 | [国内服务器接 LinuxDo 登录失败：备用端点](linuxdo-connect-domestic-server-backup-endpoints.md) | `connect.linux.do` 被墙导致服务端换 token 失败；把服务端两个端点换成 `connect.linuxdo.org` 即可，授权页不用动 |
+| [复刻 zhenhua.lu 博客并部署到 Cloudflare Pages](replicate-zhenhua-lu-blog-to-cloudflare-pages.md) | 克隆 MIT 开源博客源码换个人数据，Next.js 静态导出 + Pages 免备案部署，含 OAuth token 无 DNS 权限、fake-ip 干扰等 5 个坑 |
 
 ## 快速参考
 
